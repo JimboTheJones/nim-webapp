@@ -1,0 +1,22 @@
+.top-nav-bar {
+    background-color: #ffffff;
+}
+
+.game-screen {
+    display: block;
+    margin: auto;
+}
+
+.game-section {
+    background-color: #18191a;
+}
+
+div.how-to-play-section {
+    background-color: #242526;
+    padding: 2.5rem;
+}
+
+canvas {
+    display : block;   
+    margin : auto;
+}
